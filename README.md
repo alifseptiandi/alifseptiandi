@@ -60,16 +60,16 @@ const septiandy = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alifseptiandi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifseptiandi&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+  <img width="95%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p>
+
+<p align="center">
+  <img width="48%" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img width="48%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alifseptiandi&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=alifseptiandi&theme=tokyo-night&hide_border=true&area=true&radius=12" />
 </p>
 
 ---
